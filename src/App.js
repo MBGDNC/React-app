@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >Learn React</a>
-        <a className="App-link" href="https://github.com/MBGDNC/React-app" target="_blank">GitHub Repository</a>
+        <a className="App-link" href="https://github.com/MBGDNC/React-app" rel="noopener noreferrer" target="_blank">GitHub Repository</a>
       </header>
     </div>
   );
