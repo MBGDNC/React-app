@@ -35,10 +35,16 @@ h1 {
 .App-link {
   color: #61dafb;
   text-decoration: none;
+  padding-top: 15px;
 }
 
 .App-link:hover {
   text-decoration: underline;
+}
+
+.id {
+  font-weight: 800;
+  color: rgb(165, 52, 52);
 }
 
 @keyframes App-logo-spin {
