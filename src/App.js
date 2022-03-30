@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { idHelpers, arrayHelpers} from './library/helpers';
+import { idHelpers} from './library/helpers';
 import { RepositoryLink } from './components/RepositoryLink';
 import { RandomValue } from './components/RandomValue';
 
